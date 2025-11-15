@@ -24,3 +24,6 @@ Dont over complicate things.
 3. go to web.config -> set this variable to true -> stdoutLogEnabled="true"
 4. move all files to inetpub/wwwroot/ui (create new folder called 'ui')
 5. Almost done.
+
+## Upon hosting
+1. dont forget to add company details, tax settings, otherwise app breaks.
