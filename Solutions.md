@@ -27,3 +27,4 @@ Dont over complicate things.
 
 ## Upon hosting
 1. dont forget to add company details, tax settings, otherwise app breaks.
+2. No changes are required.
